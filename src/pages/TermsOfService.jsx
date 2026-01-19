@@ -5,8 +5,8 @@ export default function TermsOfService() {
     <main>
       <div className="relative content gap-4 py-8 px-6 shadow-xl h-[75vh] md:w-[60vw] lg:w-[40vw] md:max-h-[50vw]">
         <a className="absolute top-10 left-6" href="/"><FaArrowLeft className="hover:text-[#6D37BE] transition-all transition-duration-200" size={20} /></a>
-        <h2 className="md:hidden text-3xl font-bold">☆ TOS</h2>
-        <h1 className="hidden md:block text-3xl font-bold">☆ terms of service</h1>
+        <h2 className="md:hidden text-3xl font-bold text-[#6D37BE]">☆ TOS ☆</h2>
+        <h1 className="hidden md:block text-3xl font-bold text-[#6D37BE]">☆ terms of service ☆</h1>
 
         <div className="overflow-y-scroll pr-4 px-4 md:px-8">
           <h2 className="text-xl text-center my-6 font-bold text-[#6D37BE] ">GENERAL</h2>
